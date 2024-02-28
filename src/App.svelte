@@ -1,5 +1,5 @@
 <script lang="ts">
-  //alert("welcome to svelte calculator!");
+  alert("welcome to svelte calculator!");
 </script>
 
 <main class="space-y-8">
