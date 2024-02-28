@@ -1,2 +1,2 @@
 # Svelte calculator
-電卓のモック
+goを使用して電卓を作る
